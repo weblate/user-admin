@@ -1,5 +1,3 @@
-# please keep this list sorted alphabetically
-#
 af
 am
 ar
@@ -8,8 +6,8 @@ ast
 az
 be
 bg
-bn_IN
 bn
+bn_IN
 br
 bs
 ca
@@ -26,11 +24,13 @@ en_AU
 en_CA
 en_GB
 eo
+es
 es_AR
 es_CO
 es_MX
 et
 eu
+fa
 fi
 fr
 fur
@@ -51,11 +51,12 @@ is
 it
 ja
 ka
+kab
 kk
 kn
 ko
-ku_IQ
 ku
+ku_IQ
 ky
 li
 lt
@@ -79,8 +80,8 @@ or
 pa
 pl
 ps
-pt_BR
 pt
+pt_BR
 ro
 ru
 rw
@@ -88,14 +89,15 @@ si
 sk
 sl
 sq
-sr@latin
 sr
+sr@latin
 sv
 ta
 te
 th
 tk
 tr
+tzm
 ug
 uk
 ur
